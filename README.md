@@ -8,7 +8,7 @@ A guide to installing Dread Hunger in 2026. It's a work in progress. I will mayb
 
 You have two options:
 
-1. Download it from this Google Drive link: https://drive.google.com/file/d/1ojJ1XbU7pm2chPGRTYnvX44uaBBE-lRE/view?pli=1
+1. Download it from this Google Drive link: [WIP]
 2. Download it as a torrent:
    1. magnet:?xt=urn:btih:54c14ea7a685c2fed9d1bf5fda742f2641342b49&dn=Dread%20Hunger%20by%20FreeTP.org
    2. https://freetp.org/po-seti/5492-dread-hunger-igra-po-seti-besplatno-onlayn.html
