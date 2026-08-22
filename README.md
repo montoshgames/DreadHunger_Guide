@@ -1,4 +1,7 @@
 # DreadHunger_Guide
+
+*If you already own the game on Steam, you can still download it normally and can ignore this guide*
+
 A guide to installing Dread Hunger in 2026. It's a work in progress. I will maybe try to add some pictures here when I have time. Please let me know if something doesn't work.
 
 ## Downloading the files
