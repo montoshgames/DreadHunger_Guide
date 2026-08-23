@@ -21,7 +21,7 @@ If you downloaded from the Google Drive, you will have to extract the zip file. 
 
 Delete the file named Overlay.dll
 
-## Translating the Game
+#### Translating the Game
 
 This is a Russian torrent... so the game will be in Russian. This is simple to fix:
 
